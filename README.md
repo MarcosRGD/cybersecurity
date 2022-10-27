@@ -12,7 +12,7 @@ Inteligência de ameaças cibernéticas
 
 # Índice
 
-- [O que é inteligência?](#o-que-é-Inteligência?)
+- [O que é inteligência?](#o-que-é-Inteligência)
 - [O que é análise de inteligência?](#what-is-inteligência-análise)
 - [Quem é o pai da análise de inteligência estratégica?](#quem-é-o-pai-da-análise de inteligência estratégica)
 - [O que é o Ciclo de Inteligência?](#what-is-the-intelligence-cycle)
